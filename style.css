@@ -1,0 +1,34 @@
+/* Write some CSS below */
+h1	{
+	color: #DB4ECD;
+	background-color: #F6E8EC;	
+	font-family: apple-chancery, sans-serif;
+	font-size: 50px;
+	text-decoration: underline overline #DB15D6;
+	text-align: center;
+}
+p{
+	color: purple;
+	
+}
+h2{
+	color: #DB4ECD;
+	font-size: 20px;s
+
+}
+h3{color: #DB4ECD;
+	font-size:20px;}
+h4{color: #DB4ECD;
+	font-size: 20px}
+h5{color: #DB4ECD;
+	font-size: 20px;}
+
+h2,h3,h4{font-family: Chivo;
+	
+}
+
+a:hover{color:purple;}
+a{color: pink;
+	transition: .6;
+	text-align: center;}
+
